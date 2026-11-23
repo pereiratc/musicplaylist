@@ -1,0 +1,15 @@
+/workspaces/musicplaylist/bin/Debug/net10.0/musicplaylist
+/workspaces/musicplaylist/bin/Debug/net10.0/musicplaylist.deps.json
+/workspaces/musicplaylist/bin/Debug/net10.0/musicplaylist.runtimeconfig.json
+/workspaces/musicplaylist/bin/Debug/net10.0/musicplaylist.dll
+/workspaces/musicplaylist/bin/Debug/net10.0/musicplaylist.pdb
+/workspaces/musicplaylist/obj/Debug/net10.0/musicplaylist.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/musicplaylist/obj/Debug/net10.0/musicplaylist.AssemblyInfoInputs.cache
+/workspaces/musicplaylist/obj/Debug/net10.0/musicplaylist.AssemblyInfo.cs
+/workspaces/musicplaylist/obj/Debug/net10.0/musicplaylist.csproj.CoreCompileInputs.cache
+/workspaces/musicplaylist/obj/Debug/net10.0/musicplaylist.sourcelink.json
+/workspaces/musicplaylist/obj/Debug/net10.0/musicplaylist.dll
+/workspaces/musicplaylist/obj/Debug/net10.0/refint/musicplaylist.dll
+/workspaces/musicplaylist/obj/Debug/net10.0/musicplaylist.pdb
+/workspaces/musicplaylist/obj/Debug/net10.0/musicplaylist.genruntimeconfig.cache
+/workspaces/musicplaylist/obj/Debug/net10.0/ref/musicplaylist.dll
